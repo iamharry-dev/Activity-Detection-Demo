@@ -1,10 +1,18 @@
-## Fraction Human Activity Detection UI 
+## Fraction Human Activity Detection UI with Firebase Login
 
-### Firebase Login Authendication
+```
+1. Firebase username and password
 
-### React Ag Grid 
+  Username : user@fraction.com  
+  
+  password : 123123
 
-### Priority Ordering with color coding
+2. React Ag Grid 
 
+3. Priority Ordering with color coding
 
+```
 
+## Preview 
+
+![Screenshot](Preview.png)
